@@ -28,8 +28,6 @@ The portal features a secure entry point with complex role-based logic and exter
 
 <img width="1898" height="886" alt="Screenshot 2026-04-13 132504" src="https://github.com/user-attachments/assets/4859ed3f-4b30-4d0f-8e66-2768a5be1f6a" />
 
-<img width="1909" height="887" alt="Screenshot 2026-04-13 123612" src="https://github.com/user-attachments/assets/c5db320a-d1cb-44d2-ac47-6d899c92fd51" />
-
 <img width="1909" height="887" alt="Screenshot 2026-04-13 123612" src="https://github.com/user-attachments/assets/fc954604-ca27-400c-bb96-a3d37d28a4e8" />
 
 <img width="1901" height="891" alt="Screenshot 2026-04-13 132341" src="https://github.com/user-attachments/assets/66573367-773d-464e-88d5-f124cae11c9c" />
