@@ -15,8 +15,8 @@ A professional recruitment platform featuring specialized dashboards for Candida
 
 * **Role Selection:** Distinct login paths for Candidates, Employers, and Admins.
 <img width="1909" height="887" alt="Screenshot 2026-04-13 123612" src="https://github.com/user-attachments/assets/fc954604-ca27-400c-bb96-a3d37d28a4e8" />
-<img width="1905" height="887" alt="Screenshot 2026-04-13 132927" src="https://github.com/user-attachments/assets/946529f4-0c7c-4b7a-8bfc-97a59b09e1e9" />
 <img width="1901" height="891" alt="Screenshot 2026-04-13 132341" src="https://github.com/user-attachments/assets/66573367-773d-464e-88d5-f124cae11c9c" />
+<img width="1905" height="887" alt="Screenshot 2026-04-13 132927" src="https://github.com/user-attachments/assets/946529f4-0c7c-4b7a-8bfc-97a59b09e1e9" />
 
 ### 🏢 2. Employer Dashboard (Posting Roles)
 Employers have a dedicated interface to publish new job opportunities directly to the live portal.
@@ -25,10 +25,10 @@ Employers have a dedicated interface to publish new job opportunities directly t
 ### 📋 3. Candidate Experience (Job Search)
 Candidates browse a curated list of high-paying tech roles and apply with their resumes.
 <img width="1896" height="895" alt="Screenshot 2026-04-13 123804" src="https://github.com/user-attachments/assets/b2dfb8f4-3c72-467c-858b-310ecfb07c1b" />
-<img width="1888" height="898" alt="Screenshot 2026-04-13 123945" src="https://github.com/user-attachments/assets/50be898c-b366-43a3-8e42-6021ca38110c" />
-<img width="1891" height="902" alt="Screenshot 2026-04-13 123935" src="https://github.com/user-attachments/assets/6848d6fa-3a0b-4e87-aade-401852939d21" />
-<img width="1893" height="899" alt="Screenshot 2026-04-13 123917" src="https://github.com/user-attachments/assets/4ebca258-2f29-4bf9-88c3-cfa86d85c172" />
 <img width="1896" height="898" alt="Screenshot 2026-04-13 123900" src="https://github.com/user-attachments/assets/c445a060-9fc2-4c2c-a4cd-867ad6d332ad" />
+<img width="1893" height="899" alt="Screenshot 2026-04-13 123917" src="https://github.com/user-attachments/assets/4ebca258-2f29-4bf9-88c3-cfa86d85c172" />
+<img width="1891" height="902" alt="Screenshot 2026-04-13 123935" src="https://github.com/user-attachments/assets/6848d6fa-3a0b-4e87-aade-401852939d21" />
+<img width="1888" height="898" alt="Screenshot 2026-04-13 123945" src="https://github.com/user-attachments/assets/50be898c-b366-43a3-8e42-6021ca38110c" />
 
 
 ### ⚖️ 4. Admin Control Panel (ATS)
