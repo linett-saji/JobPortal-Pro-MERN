@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ee3355d6-e3d9-4307-b10f-5607d3b6c16c" /># 🚀 JobPortal Pro - MERN Stack System
+🚀 JobPortal Pro - MERN Stack System
 
 A professional recruitment platform featuring specialized dashboards for Candidates, Employers, and Admins.
 
@@ -27,12 +27,10 @@ Employers have a dedicated interface to publish new job opportunities directly t
 
 
 ### 📋 3. Candidate Experience (Job Search)
-Candidates browse a curated list of high-paying tech roles and apply with their resumes.
-<img width="1896" height="895" alt="Screenshot 2026-04-13 123804" src="https://github.com/user-attachments/assets/b2dfb8f4-3c72-467c-858b-310ecfb07c1b" />
-<img width="1896" height="898" alt="Screenshot 2026-04-13 123900" src="https://github.com/user-attachments/assets/c445a060-9fc2-4c2c-a4cd-867ad6d332ad" />
-<img width="1893" height="899" alt="Screenshot 2026-04-13 123917" src="https://github.com/user-attachments/assets/4ebca258-2f29-4bf9-88c3-cfa86d85c172" />
-<img width="1891" height="902" alt="Screenshot 2026-04-13 123935" src="https://github.com/user-attachments/assets/6848d6fa-3a0b-4e87-aade-401852939d21" />
-<img width="1888" height="898" alt="Screenshot 2026-04-13 123945" src="https://github.com/user-attachments/assets/50be898c-b366-43a3-8e42-6021ca38110c" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-13 155712" src="https://github.com/user-attachments/assets/716896fd-0044-4653-923a-d7526f5f33de" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-13 155719" src="https://github.com/user-attachments/assets/76a981da-6cfc-462c-a6ff-fcb94f34f4a8" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-13 155728" src="https://github.com/user-attachments/assets/73ff40a6-47d5-4417-bba0-9df39fc1b554" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-13 155733" src="https://github.com/user-attachments/assets/10c98e00-3c7f-45b1-b955-1ce9438d5dc1" />
 
 
 ### ⚖️ 4. Admin Control Panel (ATS)
