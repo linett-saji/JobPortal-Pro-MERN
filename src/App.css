@@ -1,0 +1,56 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f6fa;
+}
+
+h1 {
+  text-align: center;
+  color: #2f3640;
+}
+
+h2 {
+  color: #273c75;
+}
+
+div {
+  margin: 20px;
+}
+
+input {
+  padding: 8px;
+  width: 200px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  padding: 6px 12px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+button:nth-child(1) {
+  background-color: #44bd32;
+  color: white;
+}
+
+button:nth-child(2) {
+  background-color: #e84118;
+  color: white;
+}
+
+button:nth-child(3) {
+  background-color: #0097e6;
+  color: white;
+}
+
+hr {
+  border: 0.5px solid #ccc;
+}
